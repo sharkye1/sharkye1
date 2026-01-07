@@ -22,13 +22,15 @@
     <img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=sharkye&theme=dark">
   </a>
 
-  <a href="https://github.com/sharkye1">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkye1&theme=dark&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
-  </a>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharkye1&show_icons=true&theme=dark">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkye1&layout=compact&theme=dark">
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharkye1&show_icons=true&theme=dark&bg_color=101010&hide_title=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharkye1&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharkye1&theme=github_dark">
 </p>
