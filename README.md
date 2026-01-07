@@ -1,41 +1,34 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
 
-<!--
-**sharkye1/sharkye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">✩&emsp;sharkye&emsp;✩</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Привет, меня зовут [Леша]! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет!;Добро+пожаловать+в+мой+GitHub!;Листай+ниже+👇;&font=Fira%20Code&color=%23D62F79&center=true&width=320&height=50">
+</p>
 
-`🎓 Студент первого курса ИТМО` | `💡 Будущий инноватор` | `🚀 В поиске интересных проектов`
+<br>
 
-Добро пожаловать в мой уголок на GitHub! Я только начинаю свой путь в мире IT, но горю желанием учиться, создавать и развиваться. Здесь вы найдете мои первые шаги в программировании, эксперименты и, надеюсь, рост от новичка до профи.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharkye1&color=grey">
+</p>
 
+<br>
 
-## Мой стек технологий 🛠️
+<p align="center">
+  <a href="https://codeforces.com/profile/sharkye">
+    <img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=sharkye&theme=dark">
+  </a>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <a href="https://github.com/sharkye1">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkye1&theme=dark&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
+  </a>
+</p>
 
+<br>
 
-
-## Где меня найти? 📫
-
-*   **Почта:** [ 501671@niuitmo.ru]
-
-Всегда рад новым знакомствам, предложениям по сотрудничеству или просто советам! Не стесняйтесь писать!
-
----
-
-*Спасибо, что заглянули! Хорошего дня! ✨*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharkye1&show_icons=true&theme=dark&bg_color=101010&hide_title=true">
+</p>
