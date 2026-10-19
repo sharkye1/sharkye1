@@ -3,7 +3,7 @@
 
 <br>
 
-<h1 align="center">✩&emsp;sharkye&emsp;✩</h1>
+<h1 align="center">✩&emsp;sharkye1&emsp;✩</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет!;Добро+пожаловать+в+мой+GitHub!;Листай+ниже+👇;&font=Fira%20Code&color=%23D62F79&center=true&width=320&height=50">
