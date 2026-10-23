@@ -11,9 +11,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharkye1&color=grey">
-</p>
 
 <br>
 
